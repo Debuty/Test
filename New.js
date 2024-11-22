@@ -1,8 +1,3 @@
-
-
-
-
-
 let Test_Input = document.querySelector(".More_about_Me_Button");
 
 
@@ -17,9 +12,4 @@ console.log( window.screenY);
  let Feature_2 = document.querySelector(".features_Two");
 
  let Feature_3 = document.querySelector(".features_Three");
-
-
-
- 
-
 

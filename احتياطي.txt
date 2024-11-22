@@ -1,0 +1,1264 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>Html_Css </title>
+
+  <link rel="stylesheet" href="css/all.min.css">
+
+  <link rel="stylesheet" href="CSS/Pra.css">
+  <link rel="icon" type="image/x-icon" href="image/sec div.png">
+
+
+
+</head>
+
+
+
+
+<body style="margin: 0px;">
+
+
+
+  <div class="Header">
+
+
+    <div class="container">
+
+      <img class="logo" src="image/pngwing.com.png">
+
+
+
+
+
+      <div class="links">
+
+        <span class="icon">
+
+          <span class="span-1"></span>
+          <span class="span-2"></span>
+          <span class="span-3"></span>
+
+        </span>
+
+
+        <ul>
+
+          <li><a href="#services">services</a></li>
+          <li><a href="#portfolio">portfolio</a></li>
+          <li><a href="#TEST">about</a></li>
+          <li><a href="contact.html" target="_blank">contact</a></li>
+          <li><a href="contact.html" target="_blank">Sign up</a></li>
+
+        </ul>
+
+
+
+      </div>
+
+
+
+    </div>
+
+
+
+  </div>
+
+  <!-- end Header -->
+
+  <!-- start landing -->
+
+  <div class="landing">
+
+    <div class="into-text">
+
+      <h1>Hello There</h1>
+      <p> We are Leon - Super Creative & Minimal Agency Web Template</p>
+
+    </div>
+
+
+  </div>
+
+  <!-- END LANDING -->
+
+
+
+  <!-- start Features -->
+  <div class="Zero_features">
+
+
+
+    <div class="features_Main">
+
+
+
+
+      <div class="features_One for_three_of_Features">
+        <img class="Features_Icons Features_Icons_1" src="image/Features/phone-call.png" alt="">
+        <h3>Contact us at <br> any time.</h3>
+        <p>is simply dummy text of the printing and typesetting industry.
+          Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+      </div>
+
+
+
+      <div class="features_Two for_three_of_Features">
+        <img class="Features_Icons Features_Icons_2" src="image/Features/settings.png" alt="">
+        <h3>Flexibility in using <br>settings.</h3>
+        <p>is simply dummy text of the printing and typesetting industry.
+          Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+      </div>
+
+
+      <div class="features_Three for_three_of_Features">
+        <img class="Features_Icons Features_Icons_3" src="image/Features/shopping-cart.png" alt="">
+        <h3>You will find everything you want.</h3>
+
+        <p>is simply dummy text of the printing and typesetting industry.
+          Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+      </div>
+
+
+    </div>
+
+  </div>
+
+
+
+
+
+
+  <!-- End Features -->
+
+
+
+  <!-- Start services -->
+
+  <div class="Main_services_Dive">
+
+    <div class="componant_style">
+
+      <h2> services</h2>
+
+      <p>Don't be busy productive </p>
+
+
+
+    </div>
+
+    <div class="Div_include_four_services">
+
+
+      <div class="Services_One class_for_all_services">
+        <i class="fas fa-palette fa-2x"></i>
+
+        <h3>Graphic Designe</h3>
+        <p>is a creative process that
+          combines artbr and technology to
+          communicate ideas and messages visually.</p>
+
+
+      </div>
+
+
+      <div class="Services_Tow class_for_all_services"><i class="fas fa-vector-square fa-2x"></i>
+        <h3>Web Design</h3>
+        <p>is the process of creating and
+          designing websites,
+          focusing on aesthetics, usability, and functionality.</p>
+      </div>
+
+
+      <div class="Services_Three class_for_all_services"><i class="fab fa-sketch fa-2x"></i>
+        <h3>UI & UX </h3>
+        <p>are two essential components of product
+          design,especially in web and mobile applications</p>
+      </div>
+
+
+      <div class="Services_Four class_for_all_services"> <i class="fas fa-pencil-ruler fa-2x"></i>
+        <h3>Web Development</h3>
+        <p>refers to the process of building and
+          maintaining websites</p>
+      </div>
+
+
+    </div>
+
+  </div>
+
+
+  <!-- Start Portfolio -->
+
+  <div class="Main_portfolio_Div" id="portfolio">
+
+
+    <div class="componant_style">
+
+      <h2> Portfolio</h2>
+
+      <p>If you do it right , it will last forever </p>
+
+    </div>
+
+
+
+    <div class="Div_continor_for_Projects_In_Portfolio">
+
+
+
+      <div class="Div_For_Project_One Commen_Div_For_Projects">
+        <img src="image/portfolio/Coffe.jpg" alt="" style="height: 200px;" loading="lazy">
+        <h3>Debuty Coffe</h3>
+        <p>Welcome to "Debuty Coffe" where craftsmanship meets flavor. Nestled in the heart of the city,
+        </p>
+      </div>
+
+      <div class="Div_For_Project_Tow Commen_Div_For_Projects">
+        <img src="image/portfolio/Gym.jpg" alt="" loading="lazy">
+        <h3>Debuty Gym</h3>
+        <p>Welcome to "Debuty Gym" your ultimate destination for fitness and wellness. Located in the heart of the
+          community,
+        </p>
+      </div>
+
+      <div class="Div_For_Project_Three Commen_Div_For_Projects">
+        <img src="image/portfolio/restaurant .jpg" alt="" loading="lazy">
+        <h3>Debuty restaurant</h3>
+        <p>Welcome to "Debuty restaurant" where culinary artistry meets a warm, inviting atmosphere. Located in the
+          heart of the city,
+        </p>
+      </div>
+
+    </div>
+
+
+
+
+    <input type="button" value="More about Me" class="More_about_Me_Button">
+
+
+
+  </div>
+
+  <!-- End Portfolio -->
+
+
+
+  <!-- Start About -->
+
+  <div id="TEST" class="Main_About_Div">
+
+
+    <div class="componant_style">
+
+      <h2> About</h2>
+
+      <p>If you do it right , it will last forever </p>
+
+    </div>
+
+    <div class="Dive_For_Shape_and_Paragraph">
+
+
+      <div class="Div_For_shabes">
+
+        <div class="Main_Shabe">
+
+        </div>
+
+        <div class="Dive_for_Tow_shab_Two_Three">
+          <div class="Two_Shabe">
+
+          </div>
+
+          <div class="Three_Shabe">
+
+          </div>
+        </div>
+
+
+
+      </div>
+
+
+
+      <div class="Div_Main_For_Paragraph">
+
+        <p class="Paragraph_One_In_About">is simply dummy text of the printing and typesetting industry.
+          It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially
+          unchanged.
+        </p>
+        <hr>
+        <p class="Paragraph_Two_In_About">It was popularised in the 1960s with the release of Letraset sheets containing
+          Lorem Ipsum passages,
+          and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+
+
+
+
+  <!-- End About -->
+
+  <!-- Start contact Us -->
+
+  <div class="Main_Div_For_Conatct">
+
+
+    <div class="componant_style">
+
+      <h2> Contact</h2>
+
+      <p>We are born to create</p>
+
+    </div>
+
+
+    <div class="Dive_For_all_Content_In_ContactUs">
+
+
+
+      <p class="Paragraph_One_In_ContactUs">Feel Free to drop us a line at : </p>
+
+
+
+      <p class="Paragraph_Tow_In_ContactUs">DebutyAgancy@Yahoo.com </p>
+
+      <div class="Dive_For_Last_P_And_Icon_In_ContactUS">
+
+
+        <p>Find Us On social Networks :</p>
+
+        <div class="Div_For_Icon">
+
+          <i class="fab fa-youtube"></i>
+          <i class="fab fa-facebook-f"></i>
+          <i class="fab fa-twitter"></i>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End contact Us -->
+
+  <!-- Start Footer -->
+
+
+
+  <div class="Footer">
+
+    &copy; 2024 <span> Debuty </span> All right Reserved
+
+  </div>
+
+
+
+
+
+  <!-- End Footer -->
+
+  <script src="New.js"></script>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:root{
+--main-color:#459c9a;
+
+}
+
+
+
+* {
+
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+
+
+
+}
+
+
+/* star header */
+
+.Header{
+
+   padding: 20px;
+
+/* 
+    position: fixed;
+
+   top: 0px;
+    left: 0px;
+
+    right: 0px;  */
+
+    
+}  
+
+
+
+.container{
+
+  
+
+    width: 80%;
+
+    height: 100px;
+   
+    display: flex;
+
+  justify-content: space-between;
+
+ align-items:flex-start;
+
+ position: relative;
+
+ left: 100px;  
+
+ border-radius: 10px;
+
+
+ 
+}
+
+
+
+/* Global rules */
+
+   .logo{
+
+
+  width: 50px;
+  
+  
+
+
+  border-radius: 25px;
+
+   }
+
+
+   
+    
+
+    .links{
+
+  position: relative;
+
+  
+
+   }
+
+   .icon{
+
+      width: 30px;
+    
+      display: flex;
+    
+       flex-wrap: wrap; 
+    
+      flex-direction: row-reverse; 
+    
+    
+      position: absolute;
+    
+      top: 4px;
+    
+     right:  0px;
+    
+     
+    
+       }
+
+       .icon span{
+
+         background-color: #333;
+   
+         margin-bottom: 5px;
+   
+
+         
+   
+          
+          
+   
+      }
+
+      .icon span:first-child{
+
+
+         height: 3px;
+       
+          width: 100%;
+       
+          }
+           .icon span:nth-child(2){
+       
+          height: 3px;
+          
+          width: 60%;
+       
+          transition: 0.6s;
+       
+          }
+           .icon span:last-child{
+       
+              height: 3px;
+          
+              width: 100%;
+       
+          }
+       
+   
+
+  ul{
+   
+   
+   list-style-type: none;
+
+ position:relative;
+
+   transition: 0.5s;
+
+  right:0px;
+  bottom: -30px;
+   
+  background-color: black;
+
+
+  
+  padding: 22px;
+
+  border-radius: 5px 0px 5px 5px;
+
+  
+  z-index: 1;
+
+ min-width: 200px;
+
+ opacity: 0%;  
+   
+
+   }
+
+   ul::after{
+   
+      content: "";
+
+      border-width: 15px ;
+
+      border-style: solid;
+    
+         border-color: transparent transparent black transparent;
+
+         position: absolute;
+         top: -29px;
+         right: 1px;
+   
+
+   }
+
+    
+   ul li{
+   
+      border-color: transparent transparent rgb(254, 254, 254) transparent;
+   
+      border-width: 2px;
+      
+     
+        border-style: solid;
+    
+    color: aliceblue;
+
+     }
+
+     li span{ padding: 10px;}
+
+    
+ a{
+   text-decoration: none;
+
+   color: black;
+  display: block;
+  padding: 10px;
+
+ 
+  transition: 1s;
+  color: white;
+
+ }
+
+ 
+
+  .links:hover  ul{
+
+   opacity: 100%;
+
+  }
+
+  .links:hover  .icon span:nth-child(2){
+
+  width: 100%;
+
+  }
+
+   ul a:hover{
+
+ transform: translateX(20px);
+
+   }
+
+
+  /* End Header  */
+   
+      
+/* start lannding */
+
+
+.landing{
+
+
+  background-image: url(../image/landscape-7283516_1280.jpg);
+    background-size: cover; 
+  
+   height: calc(100vh - 140px); 
+
+  position: relative;
+
+}
+   
+.landing .into-text{
+
+
+position: absolute;
+
+left: 50%;
+
+top: 50%;
+
+transform: translate(-50%,-50%);
+
+text-align: center;
+
+width: 400px;
+
+}
+
+
+.landing .into-text h1{
+
+   margin: 0px;
+
+font-weight: bold;
+
+font-size: 50px;
+
+   color:var(--main-color) ;
+}
+
+
+.landing .into-text p{
+
+
+line-height: 1.8;
+
+}
+
+
+/* <!-- start Features --> */
+
+.Zero_features{
+
+   
+
+  
+border-radius: 50px;
+
+}
+
+ .features_Main{
+
+  display: flex;
+
+justify-content: space-between; 
+
+flex-wrap: wrap; 
+
+margin: 200px;
+
+
+margin-bottom: 100px;
+
+text-align: center;
+
+
+
+
+
+} 
+
+
+
+.Features_Icons{
+
+   width: 50px;
+
+
+}
+
+.for_three_of_Features{
+
+   text-align: center;
+
+    margin: 20px;
+padding: 10px; 
+
+width: 300px;
+transition: 1s;
+
+
+
+/* opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s ease, transform 0.5s ease; */
+
+}
+
+ @media (max-width: 1090px)
+{
+   .for_three_of_Features{transform: translate(100px);}
+
+} 
+
+
+
+.features_One:hover{
+
+   box-shadow: 0px 0px 23px -14px;
+
+}
+.features_Two:hover{
+
+   box-shadow: 0px 0px 23px -14px;
+
+}
+.features_Three:hover{
+
+   box-shadow: 0px 0px 23px -14px;
+
+}
+
+.for_three_of_Features p{
+
+  line-height: 40px;
+
+text-align: left;
+
+line-height: 1.5;
+
+/* font-weight: 600; */
+ 
+
+
+}
+
+.for_three_of_Features h3{
+
+   color:var(--main-color) ;
+ }
+
+ /* <!-- Start services --> */
+ 
+  .componant_style h2{
+
+
+   text-align: center;
+   
+   margin: 0px;
+  color: #ebeced;
+   font-size: 200px;
+   
+
+
+   
+    }
+
+@media (max-width : 700px)
+{
+   .componant_style h2{
+
+
+     
+      font-size: 150px;
+      
+   
+   
+      
+       }
+ 
+
+}
+
+  .componant_style p{
+
+
+text-align: center;
+
+font-size: 20px;
+
+font-weight: 600;
+
+margin-bottom: 10px;
+
+transform: translate(0px, -42px);
+
+
+
+ }
+
+
+
+
+
+ .Div_include_four_services{
+
+margin: 100px;
+margin-top: 100px;
+
+padding-left: 50px;
+display: grid;
+
+/* grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); */
+
+grid-template-columns: auto auto;
+
+transform: translate(0px,0px);
+
+
+
+border-radius: 50px;
+
+
+
+ }
+
+ 
+
+ .Div_include_four_services p{
+   color: rgb(44, 10, 10);
+ }
+
+
+
+ 
+
+
+
+ 
+
+ .class_for_all_services{
+
+margin: 10px;
+
+padding: 20px;
+
+
+
+box-shadow: 0px 0px 23px -14px;
+
+border-radius: 10px;
+
+
+
+ }
+
+ /* <!-- Start Portfolio --> */
+
+
+
+ .Main_portfolio_Div{
+
+   margin-bottom: 100px;
+text-align: center;
+
+ }
+
+
+ .componant_style{
+
+ }
+
+ .Div_continor_for_Projects_In_Portfolio{
+
+display: flex;
+
+flex-wrap: wrap;
+
+margin: 100px;
+
+margin-bottom: 50px;
+ }
+
+
+
+ .Commen_Div_For_Projects img{
+
+width: 300px;
+
+border-radius: 20px;
+
+ }
+
+ .Commen_Div_For_Projects{
+
+margin: 10px;
+
+width: 400px;
+
+box-shadow: 0px 0px 23px -14px;
+
+padding: 10px;
+
+border-radius: 20px;
+
+text-align: center;
+
+transition: 1s;
+
+ }
+
+ @media (max-width: 1090px)
+{
+   .Commen_Div_For_Projects{transform: translate(190px);}
+
+} 
+
+.More_about_Me_Button{
+
+transform: translate(0px,-10px);
+ box-shadow: 0px 0px 23px -14px;
+
+
+ cursor: pointer;
+
+
+border-radius: 10px;
+
+padding: 5px; 
+
+font-size: small;
+
+}
+
+
+/* <!-- Start About --> */
+
+
+
+.Main_About_Div{
+
+margin: 200px;
+
+
+
+}
+
+
+.componant_style{
+
+
+}
+
+
+.Div_For_shabes{
+
+   margin: 50px;
+
+transform: translate(30px,0px);
+
+}
+
+
+
+.Main_Shabe{
+
+width: 200px;
+
+height: 200px;
+
+background-color: rgb(81, 51, 11);
+
+box-shadow: 0px 0px 23px -14px;
+
+position: fixed ;
+
+z-index: 10;
+
+}
+.Main_Shabe::before{
+content: "";
+
+height: 100%;
+
+ background-color: yellow;
+
+ width: 100px;
+
+ z-index: 1;
+
+}
+
+.Two_Shabe{
+
+   width: 50px;
+
+   height: 150px;
+background-color: rgb(8, 85, 85);
+
+}
+
+.Three_Shabe{
+
+   width: 100px;
+
+   height: 50px;
+background-color: rgb(8, 85, 85);
+}
+
+.Dive_for_Tow_shab_Two_Three{
+
+   transform: translate(180px,-20px);
+
+
+}
+
+
+.Div_Main_For_Paragraph{
+
+width: 500px;
+
+
+
+}
+@media ( max-width: 1400px)
+{
+
+
+   .Div_Main_For_Paragraph{
+
+      width: 300px;
+      
+      
+      
+      }
+
+}
+
+
+.Paragraph_One_In_About{
+
+font-weight: bold;
+
+line-height: 50px;
+
+}
+
+.Div_Main_For_Paragraph hr{
+
+  background-color: rgb(32, 132, 150);
+   
+  height: 3px;
+   }
+
+
+.Dive_For_Shape_and_Paragraph{
+
+
+   display: flex;
+
+flex-wrap: wrap;
+
+   justify-content: space-between;
+
+}
+
+.Div_For_shabes{
+
+transition: 1s;
+
+}
+
+@media ( max-width: 1400px)
+{
+
+
+   .Div_For_shabes{
+           
+transform: translate(-180px,0px);
+   }
+
+}
+
+/* <!-- End About --> */
+
+
+
+/* <!-- Start contact Us --> */
+
+
+.Main_Div_For_Conatct{
+
+}
+
+
+.Dive_For_all_Content_In_ContactUs{
+
+margin: 100px;
+
+}
+
+.Paragraph_One_In_ContactUs{
+
+font-weight: 900;
+
+}
+
+.Paragraph_Tow_In_ContactUs{
+
+color: #459c9a;
+
+
+
+}
+
+
+
+
+.Dive_For_Last_P_And_Icon_In_ContactUS{
+
+display: flex;
+
+
+justify-content:space-between;
+
+
+width: 300px;
+
+}
+
+.Dive_For_Last_P_And_Icon_In_ContactUS p{
+
+font-size:xx-small;
+
+  margin: 0;
+   }
+
+
+
+.Div_For_Icon{
+display: flex;
+gap: 50px;
+}
+
+
+.Div_For_Icon i {
+
+width: 1px;
+
+}
+
+
+/* <!-- End contact Us --> */
+
+/* <!-- Start Footer --> */
+
+
+.Footer{
+
+padding: 20px;
+text-align: center;
+
+background-color: var(--main-color);
+
+
+
+}
+
+html {
+   scroll-behavior: smooth;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+/* <!-- End Footer --> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+let Test_Input = document.querySelector(".More_about_Me_Button");
+
+
+
+Test_Input.addEventListener("click" , function(){window.scrollTo(0,0)})
+
+console.log( window.screenY);
+
+
+ let Feature_1 = document.querySelector(".features_One");
+
+ let Feature_2 = document.querySelector(".features_Two");
+
+ let Feature_3 = document.querySelector(".features_Three");
+
